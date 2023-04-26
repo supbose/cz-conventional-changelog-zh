@@ -1,5 +1,9 @@
 # cz-conventional-changelog-zh(汉化版)
 
+# forked from z649319834/cz-conventional-changelog-zh
+
+ [z649319834/cz-conventional-changelog-zh](https://github.com/z649319834/cz-conventional-changelog-zh)
+
 [![Greenkeeper badge](https://badges.greenkeeper.io/commitizen/cz-conventional-changelog-zh.svg)](https://greenkeeper.io/)
 
 Status:
